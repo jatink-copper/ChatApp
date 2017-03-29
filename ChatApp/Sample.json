@@ -1,0 +1,217 @@
+{  
+   "facebook":{  
+      "attachment":{  
+         "type":"template",
+         "payload":{  
+            "template_type":"generic",
+            "elements":[  
+               {  
+                  "title":"Inside Out",
+                  "image_url":"http://hydracdn.verizon.net/ResourcesFiles/ImageLibrary/Movies/EPG/Mob/2247649245.jpg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Future Listings",
+                        "payload":"Get Program info of Program: Inside Out Channel: Starz Encore Family FiosId: 2247649245 Stationid : 501 Date: 3/9/2017 6:24:00 PM"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Record Movie",
+                        "payload":"Get Program info of Program: Inside Out Channel: Starz Encore Family FiosId: 2247649245 Stationid : 501 Date: 3/9/2017 6:24:00 PM"
+                     }
+                  ],
+                  "subtitle":"Starz Encore Family   | 3/9/2017 6:24:00 PM | Children,Comedy,Science Fiction | MOVIE"
+               },
+               {  
+                  "title":"Keanu",
+                  "image_url":"http://hydracdn.verizon.net/ResourcesFiles/ImageLibrary/Movies/EPG/Mob/4032948829.jpg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Future Listings",
+                        "payload":"Get Program info of Program: Keanu Channel: HBO 2 HD FiosId: 4032948829 Stationid : 2433 Date: 3/9/2017 6:50:00 PM"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Record Movie",
+                        "payload":"Get Program info of Program: Keanu Channel: HBO 2 HD FiosId: 4032948829 Stationid : 2433 Date: 3/9/2017 6:50:00 PM"
+                     }
+                  ],
+                  "subtitle":"HBO 2 HD   | 3/9/2017 6:50:00 PM | Comedy,Action and Adventure | MOVIE"
+               },
+               {  
+                  "title":"Cops",
+                  "image_url":"http://hydracdn.verizon.net/ResourcesFiles/ImageLibrary/TVShows/EPG/Mob/3409679910.jpg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Future Listings",
+                        "payload":"Get Program info of Program: Cops Channel: Spike TV HD FiosId: 4037890674 Stationid : 1999 Date: 3/9/2017 6:00:00 PM"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Record Show",
+                        "payload":"Get Program info of Program: Cops Channel: Spike TV HD FiosId: 4037890674 Stationid : 1999 Date: 3/9/2017 6:00:00 PM"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Record Series",
+                        "payload":"Want to record Cops on Spike TV HD at Date: 11122016 Time: 080000  FiosId: 4037890674 SeriesId: 3409679910 Stationid : 1999 RegionId:  Duration:"
+                     }
+                  ],
+                  "subtitle":" | Spike TV HD   | 3/9/2017 6:00:00 PM | Reality,Drama,SHOWS | SERIES"
+               },
+               {  
+                  "title":"Where to Invade Next",
+                  "image_url":"http://hydracdn.verizon.net/ResourcesFiles/ImageLibrary/Movies/EPG/Mob/1620023095.jpg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Future Listings",
+                        "payload":"Get Program info of Program: Where to Invade Next Channel: Epix HD FiosId: 1620023095 Stationid : 2147 Date: 3/9/2017 5:45:00 PM"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Record Movie",
+                        "payload":"Get Program info of Program: Where to Invade Next Channel: Epix HD FiosId: 1620023095 Stationid : 2147 Date: 3/9/2017 5:45:00 PM"
+                     }
+                  ],
+                  "subtitle":"Epix HD   | 3/9/2017 5:45:00 PM | Interests,Comedy | MOVIE"
+               },
+               {  
+                  "title":"Bones",
+                  "image_url":"http://hydracdn.verizon.net/ResourcesFiles/ImageLibrary/TVShows/EPG/Mob/1632797935.jpg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Future Listings",
+                        "payload":"Get Program info of Program: Bones Channel: Turner Network TV HD FiosId: 2685685156 Stationid : 544 Date: 3/9/2017 7:00:00 PM"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Record Show",
+                        "payload":"Get Program info of Program: Bones Channel: Turner Network TV HD FiosId: 2685685156 Stationid : 544 Date: 3/9/2017 7:00:00 PM"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Record Series",
+                        "payload":"Want to record Bones on Turner Network TV HD at Date: 11122016 Time: 080000  FiosId: 2685685156 SeriesId: 1632797935 Stationid : 544 RegionId:  Duration:"
+                     }
+                  ],
+                  "subtitle":" | Turner Network TV HD   | 3/9/2017 7:00:00 PM | Drama,Mystery and Suspense,Interests | SERIES"
+               },
+               {  
+                  "title":"Grey's Anatomy",
+                  "image_url":"http://hydracdn.verizon.net/ResourcesFiles/ImageLibrary/TVShows/EPG/Mob/4215605592.jpg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Future Listings",
+                        "payload":"Get Program info of Program: Grey's Anatomy Channel: Lifetime HD FiosId: 2817164145 Stationid : 2194 Date: 3/9/2017 6:00:00 PM"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Record Show",
+                        "payload":"Get Program info of Program: Grey's Anatomy Channel: Lifetime HD FiosId: 2817164145 Stationid : 2194 Date: 3/9/2017 6:00:00 PM"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Record Series",
+                        "payload":"Want to record Grey's Anatomy on Lifetime HD at Date: 11122016 Time: 080000  FiosId: 2817164145 SeriesId: 4215605592 Stationid : 2194 RegionId:  Duration:"
+                     }
+                  ],
+                  "subtitle":" | Lifetime HD   | 3/9/2017 6:00:00 PM | Drama,Interests | SERIES"
+               },
+               {  
+                  "title":"Supernatural",
+                  "image_url":"http://hydracdn.verizon.net/ResourcesFiles/ImageLibrary/TVShows/EPG/Mob/2217440213.jpg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Future Listings",
+                        "payload":"Get Program info of Program: Supernatural Channel: Turner Network TV HD FiosId: 1700630293 Stationid : 544 Date: 3/9/2017 6:00:00 PM"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Record Show",
+                        "payload":"Get Program info of Program: Supernatural Channel: Turner Network TV HD FiosId: 1700630293 Stationid : 544 Date: 3/9/2017 6:00:00 PM"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Record Series",
+                        "payload":"Want to record Supernatural on Turner Network TV HD at Date: 11122016 Time: 080000  FiosId: 1700630293 SeriesId: 2217440213 Stationid : 544 RegionId:  Duration:"
+                     }
+                  ],
+                  "subtitle":" | Turner Network TV HD   | 3/9/2017 6:00:00 PM | Drama,Science Fiction,Horror | SERIES"
+               },
+               {  
+                  "title":"NCIS",
+                  "image_url":"http://hydracdn.verizon.net/ResourcesFiles/ImageLibrary/TVShows/EPG/Mob/3431251359.jpg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Future Listings",
+                        "payload":"Get Program info of Program: NCIS Channel: Oxygen HD FiosId: 164180844 Stationid : 3858 Date: 3/9/2017 5:57:00 PM"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Record Show",
+                        "payload":"Get Program info of Program: NCIS Channel: Oxygen HD FiosId: 164180844 Stationid : 3858 Date: 3/9/2017 5:57:00 PM"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Record Series",
+                        "payload":"Want to record NCIS on Oxygen HD at Date: 11122016 Time: 080000  FiosId: 164180844 SeriesId: 3431251359 Stationid : 3858 RegionId:  Duration:"
+                     }
+                  ],
+                  "subtitle":" | Oxygen HD   | 3/9/2017 5:57:00 PM | Drama,Action and Adventure,Mystery and Suspense | SERIES"
+               },
+               {  
+                  "title":"Family Guy",
+                  "image_url":"http://hydracdn.verizon.net/ResourcesFiles/ImageLibrary/TVShows/EPG/Mob/2380612404.jpg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Future Listings",
+                        "payload":"Get Program info of Program: Family Guy Channel: TBS HD FiosId: 2026112274 Stationid : 1867 Date: 3/9/2017 7:00:00 PM"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Record Show",
+                        "payload":"Get Program info of Program: Family Guy Channel: TBS HD FiosId: 2026112274 Stationid : 1867 Date: 3/9/2017 7:00:00 PM"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Record Series",
+                        "payload":"Want to record Family Guy on TBS HD at Date: 11122016 Time: 080000  FiosId: 2026112274 SeriesId: 2380612404 Stationid : 1867 RegionId:  Duration:"
+                     }
+                  ],
+                  "subtitle":" | TBS HD   | 3/9/2017 7:00:00 PM | Shows,Children | SERIES"
+               },
+               {  
+                  "title":"American Dad",
+                  "image_url":"http://hydracdn.verizon.net/ResourcesFiles/ImageLibrary/TVShows/EPG/Mob/2073608629.jpg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Future Listings",
+                        "payload":"Get Program info of Program: American Dad Channel: TBS HD FiosId: 306167190 Stationid : 1867 Date: 3/9/2017 6:00:00 PM"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Record Show",
+                        "payload":"Get Program info of Program: American Dad Channel: TBS HD FiosId: 306167190 Stationid : 1867 Date: 3/9/2017 6:00:00 PM"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Record Series",
+                        "payload":"Want to record American Dad on TBS HD at Date: 11122016 Time: 080000  FiosId: 306167190 SeriesId: 2073608629 Stationid : 1867 RegionId:  Duration:"
+                     }
+                  ],
+                  "subtitle":" | TBS HD   | 3/9/2017 6:00:00 PM | Shows,Children | SERIES"
+               }
+            ]
+         }
+      }
+   }
+}
