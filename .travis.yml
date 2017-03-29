@@ -1,0 +1,8 @@
+language: objective-c
+os: osx
+osx_image: xcode8.2.1
+xcode_sdk: iphoneos9.3
+xcode_workspace: ChatApp.xcworkspace
+xcode_scheme: ChatApp
+before_install:
+  - gem install cocoapods
